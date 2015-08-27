@@ -1,7 +1,6 @@
 {
   "name": "dashing-js",
   "description": "Port of Dashing to node.js",
-  "author": "Fabio Caseri <fabio.caseri@gmail.com> (http://www.fabiocaseri.com)",
   "version": "0.1.5",
   "license": "MIT",
   "dependencies": {
@@ -34,7 +33,7 @@
     "dashboard",
     "web"
   ],
-  "repository": "git://github.com/fabiocaseri/dashing-js",
+  "repository": "git@github.com:mlamtw/dashing-js.git",
   "main": "index",
   "bin": {
     "dashing-js": "./bin/dashing-js"
